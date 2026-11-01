@@ -1,7 +1,4 @@
-/* =========================================================
-   RITESH.DEV - PREMIUM PORTFOLIO JAVASCRIPT
-   Smooth interactions + animations + projects modal
-   ========================================================= */
+
 
 document.addEventListener("DOMContentLoaded", () => {
 
